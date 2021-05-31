@@ -1,0 +1,12 @@
+/*主页的自定义html*/
+.h1{
+    background-color: aqua;
+}
+
+.following.bar .brand .ui.mini.image {
+    width: 46px;
+}
+
+.home .logo {
+    height: auto;
+}
