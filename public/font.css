@@ -4,6 +4,6 @@
     font-family: 'Source Sans Pro', sans-serif;
     -webkit-font-smoothing: antialiased!important;
 }
-.repo-title {
+.repo-title a{
     font-family: 'Oswald', sans-serif!important;
 }
