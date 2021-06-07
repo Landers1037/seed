@@ -2,7 +2,8 @@
 /*google fonts*/
 *{
     font-family: 'Source Sans Pro', sans-serif;
+    -webkit-font-smoothing: antialiased!important;
 }
 .repo-title {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald', sans-serif!important;
 }
