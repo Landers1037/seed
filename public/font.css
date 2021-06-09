@@ -1,7 +1,7 @@
 /*default fonts*/
 /*google fonts*/
 *{
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     -webkit-font-smoothing: antialiased!important;
 }
 .repo-title a{
