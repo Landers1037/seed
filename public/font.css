@@ -1,7 +1,9 @@
 /*default fonts*/
 /*google fonts*/
+
+/*全局字体使用思源黑体*/
 *{
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Noto Sans SC', sans-serif!important;
     -webkit-font-smoothing: antialiased!important;
 }
 .repo-title a{
